@@ -9,4 +9,4 @@ The Automated Documentation Generation System is a Python-based tool designed to
 **Directory Scanning:** It scans an entire codebase directory and generates comprehensive documentation from all Python files.
 
 ## Usage
-python dgs.py /path/to/your/codebase
+```python dgs.py /path/to/your/codebase```
