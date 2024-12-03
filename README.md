@@ -3,7 +3,9 @@ The Automated Documentation Generation System is a Python-based tool designed to
 
 ## Features
 **Automatic Docstring Extraction:** The system parses Python code files using the Abstract Syntax Tree (AST) module to extract docstrings from functions, classes, and modules.
+
 **Markdown Output:** The extracted documentation is formatted into a user-friendly Markdown file.
+
 **Directory Scanning:** It scans an entire codebase directory and generates comprehensive documentation from all Python files.
 
 ## Usage
