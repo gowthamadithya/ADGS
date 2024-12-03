@@ -1,4 +1,4 @@
-# Automated Documentation Generation System
+# autodoc
 The Automated Documentation Generation System is a Python-based tool designed to streamline the process of generating documentation for software projects. It automatically extracts docstrings from Python code files and generates well-structured Markdown documentation, making it easier for developers to maintain up-to-date documentation with minimal manual intervention. This system aims to reduce the time and effort spent on manually writing documentation, ensuring that your code is always documented and easily accessible.
 
 ## Features
